@@ -8,7 +8,7 @@ sources:
     tables:
       - name: hit_98_2020
       - name: song_w_genres
-      - name: spotify_track_dataset
+      - name: track_spotify_dataset
       - name: top_chart_200
       - name: tophits_2000_2019
       - name: track_chart_2014_2022
