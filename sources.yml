@@ -1,0 +1,5 @@
+sources:
+  - name: MR
+    database: main-entropy-384010
+    tables:
+       - name : top_charts_200
